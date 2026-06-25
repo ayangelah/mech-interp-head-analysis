@@ -1,0 +1,8 @@
+transformer_lens
+torch
+numpy
+matplotlib
+plotly
+jupyter
+ipykernel
+jupytext
